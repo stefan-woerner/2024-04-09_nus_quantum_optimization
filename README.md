@@ -9,3 +9,4 @@ To get started:
 4. Navigate to `<repo folder>`
 5. Install requirements: `pip install -e .`
 6. Start jupyter notebook: `jupyter notebook`
+7. Open `quantum_optimization_with_qiskit.ipynb` to get started!
