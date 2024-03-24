@@ -1,0 +1,10 @@
+qiskit-aer>=0.13.3
+qiskit>=1.0.2
+qiskit-optimization>=0.6.1
+qiskit-finance>=0.4.1
+qiskit-algorithms>=0.3.0
+matplotlib
+networkx
+docplex
+notebook==6.1.5
+rise
