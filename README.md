@@ -7,6 +7,6 @@ To get started:
 `conda create -n nus-quantum-optimization python=3.12 jupyter`
 3. Activate environment: `conda activate nus-quantum-optimization`
 4. Navigate to `<repo folder>`
-5. Install requirements: `pip install -e .`
+5. Install requirements: `pip install -r requirements.txt`
 6. Start jupyter notebook: `jupyter notebook`
 7. Open `quantum_optimization_with_qiskit.ipynb` to get started!
